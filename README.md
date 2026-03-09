@@ -1,7 +1,7 @@
 # Hi there 👋
-  My name is Erik, and I'm a master's student in theoretical physics and enginnering physics at Uppsala University.  
-- 🧠 I’m interested in theoretical physics and machine learning.  
-- 🔬 Currently working on the Nonlocal Josephson effect with conventional superconductors.  
+  My name is Erik, and I am a master's student in Scientific Computing with AI profile at Uppsala University.  
+- 🧠 I’m interested in scientific computing and machine learning.  
+- 🔬 Currently working on Long-Horizon Forecasting with Deep State-Space Models.  
 - 📫 How to reach me: erikstolt02@gmail.com.
 
 
